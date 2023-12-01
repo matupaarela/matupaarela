@@ -1,5 +1,5 @@
-### ¡Hey 👋! Soy Marco Antonio 👨🏻‍💻
-👋 Hey! I'm Marco Antonio 👨🏻‍💻, a Backend developer in .NET with over 3 years of experience.
+<h1 align="center"> ¡Hey 👋! Soy Marco Antonio 👨🏻‍💻</h1>
+<p align="center">👋 Hey! I'm Marco Antonio 👨🏻‍💻, a Backend developer in .NET with over 3 years of experience.</p>
 
 <!--
 **matupaarela/matupaarela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
