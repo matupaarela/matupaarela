@@ -1,6 +1,7 @@
-<h2 align="center"> Hey! 👋I'm Marco Antonio 👨🏻‍💻</h2>
+<h3 align="center"> Hi!👋 I'm Marco Antonio 👨🏻‍💻</h3>
 <p align="center"> a Backend developer in .NET with over 3 years of experience.</p>
 <hr>
+
 <!--
 **matupaarela/matupaarela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
