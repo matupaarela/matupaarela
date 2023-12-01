@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 Seeking collaboration on innovative projects.
 - 🤔 Seeking help with Android Jetpack Compose implementation.
 - 💬 Ask me about system development and technologies.
-- 📫 How to reach me: [matupaarela@gmail.com].
+- 📫 How to reach me: matupaarela@gmail.com.
 <!--- 😄 Pronouns: [your pronouns]. -->
 <!-- ⚡ Fun fact: [interesting fact about you].-->
 
